@@ -10,6 +10,7 @@
 - **Banco de Dados**: MySQL, MariaDB, SQL Server
 - **Infraestrutura**: Docker, Windows Server, Linux
 - **Ferramentas**: Git, GitHub, VSCode, Active Directory (AD),  Microsoft LAPS (Local Administrator Password Solution)
+- **Sistemas**: GLPI, Grafana
 
 ## 🌱 Atualmente estou aprendendo:
 - Arquitetura de Microsserviços
