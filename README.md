@@ -55,7 +55,7 @@
 ## 📫 Como me encontrar:
 
 - [LinkedIn](https://br.linkedin.com/in/orlanrocha)
-- **Email**: info@orlanrocha
+- **Email**: orlan.rocha@outlook.com
 
 ---
 
