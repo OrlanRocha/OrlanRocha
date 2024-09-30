@@ -27,6 +27,21 @@
 | [Batch-FusionInventory-GLPI](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) | Script CMD para download e instalação do agente Fusioninventory. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) |
 | [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Framework CSS. | HTML, CSS | [Acessar](https://github.com/OrlanRocha/FramePER-CSS) |
 
+### Projetos Privados (⚠️)
+| Projeto | Descrição | Tecnologias |
+|---------|------------|-------------|
+| **WindowsService** | Serviço para gerenciamento remoto de Windows Servers. | Windows, CMD |
+| **AgenteUnico** | WebService Controller. | PHP, MySQL |
+| **ProFila** | Painel de Senha em PHP. | PHP, MySQL, CSS |
+
+---
+
+## 📊 Estatísticas de Linguagens
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanRocha&layout=compact&theme=radical" alt="Orlan Rocha's Most Used Languages" />
+</p>
+
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
@@ -40,7 +55,7 @@
 ## 📫 Como me encontrar:
 
 - [LinkedIn](https://br.linkedin.com/in/orlanrocha)
-- **Email**: orlan.rocha@outlook.com
+- **Email**: info@orlanrocha
 
 ---
 
