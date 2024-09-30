@@ -7,9 +7,9 @@
 ## 🚀 Minhas Especialidades:
 - **Back-end**: PHP, Node.js
 - **Front-end**: HTML5, CSS3, JavaScript
-- **Banco de Dados**: MySQL, MariaDB
+- **Banco de Dados**: MySQL, MariaDB, SQL Server
 - **Infraestrutura**: Docker, Windows Server, Linux
-- **Ferramentas**: Git, GitHub, VSCode
+- **Ferramentas**: Git, GitHub, VSCode, Active Directory (AD),  Microsoft LAPS (Local Administrator Password Solution)
 
 ## 🌱 Atualmente estou aprendendo:
 - Arquitetura de Microsserviços
