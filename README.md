@@ -44,6 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanRocha&layout=compact&theme=radical" alt="Orlan Rocha's Most Used Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSemprebom&layout=compact&theme=radical" alt="Orlan Rocha's Most Used Languages" />
+</p>
+
 ---
 
 ## 📈 Minhas Estatísticas no GitHub
