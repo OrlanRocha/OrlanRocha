@@ -66,4 +66,3 @@
 
 ---
 
-![snake gif](https://github.com/OrlanRocha/Cobrinha/blob/output/github-contribution-grid-snake.gif)
