@@ -64,4 +64,6 @@
 ## 💡 Filosofia de Trabalho:
 > "A inovação e a paixão pelo aprendizado são a base do meu trabalho. Sou um desenvolvedor que acredita no poder da colaboração e em como o código pode transformar ideias em soluções reais."
 
-![snake gif](https://github.com/SergioSemprebom/Cobrinha/blob/output/github-contribution-grid-snake.gif)
+---
+
+![snake gif](https://github.com/OrlanRocha/Cobrinha/blob/output/github-contribution-grid-snake.gif)
