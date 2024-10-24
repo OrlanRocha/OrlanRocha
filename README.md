@@ -24,7 +24,6 @@
 | Projeto | Descrição | Tecnologias | Link |
 |---------|------------|-------------|------|
 | [Template-GestaoInteligente](https://github.com/OrlanRocha/Template-GestaoInteligente) | Template em HTML, JS & CSS sem framework. | HTML, JS, CSS | [Acessar](https://github.com/OrlanRocha/Template-GestaoInteligente) |
-| AgendamentoBarbearia | Sistema Web em PHP para agendamento de uma barbearia. | PHP, MySQL | Private |
 | [Batch-GPI-Agente-Install](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) | Script CMD para download e instalação do GLPI Agent. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) |
 | [Batch-FusionInventory-GLPI](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) | Script CMD para download e instalação do agente Fusioninventory. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) |
 | [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Framework CSS. | HTML, CSS | [Acessar](https://github.com/OrlanRocha/FramePER-CSS) |
@@ -32,6 +31,7 @@
 ### Projetos Privados (⚠️)
 | Projeto | Descrição | Tecnologias |
 |---------|------------|-------------|
+| **AgendamentoBarbearia | Sistema Web em PHP para agendamento de uma barbearia. | PHP, MySQL | Private |
 | **WindowsService** | Serviço para gerenciamento remoto de Windows Servers. | Windows, CMD |
 | **AgenteUnico** | WebService Controller. | PHP, MySQL |
 | **ProFila** | Painel de Senha em PHP. | PHP, MySQL, CSS |
