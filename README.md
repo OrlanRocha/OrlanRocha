@@ -31,7 +31,7 @@
 ### Projetos Privados (⚠️)
 | Projeto | Descrição | Tecnologias |
 |---------|------------|-------------|
-| **AgendamentoBarbearia | Sistema Web em PHP para agendamento de uma barbearia. | PHP, MySQL | Private |
+| **AgendamentoBarbearia** | Sistema Web em PHP para agendamento de uma barbearia. | PHP, MySQL | Private |
 | **WindowsService** | Serviço para gerenciamento remoto de Windows Servers. | Windows, CMD |
 | **AgenteUnico** | WebService Controller. | PHP, MySQL |
 | **ProFila** | Painel de Senha em PHP. | PHP, MySQL, CSS |
