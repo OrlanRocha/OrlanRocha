@@ -25,7 +25,7 @@
 |---------|------------|-------------|------|
 | [Template-GestaoInteligente](https://github.com/OrlanRocha/Template-GestaoInteligente) | Template em HTML, JS & CSS sem framework. | HTML, JS, CSS | [Acessar](https://github.com/OrlanRocha/Template-GestaoInteligente) |
 | AgendamentoBarbearia | Sistema Web em PHP para agendamento de uma barbearia. | PHP, MySQL | Private |
-| WindowsService | Projeto: Controle de Serviço do Windows com TrayApp. | C# | Private |
+| [Batch-GPI-Agente-Install](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) | Script CMD para download e instalação do GLPI Agent. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) |
 | [Batch-FusionInventory-GLPI](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) | Script CMD para download e instalação do agente Fusioninventory. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) |
 | [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Framework CSS. | HTML, CSS | [Acessar](https://github.com/OrlanRocha/FramePER-CSS) |
 
