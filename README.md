@@ -32,7 +32,7 @@
 | Projeto | Descrição | Tecnologias |
 |---------|------------|-------------|
 | **AgendaBarberShop** | Sistema Web em PHP,Agenda de barbearia. | PHP, MySQL | Private |
-| **WindowsService** | Serviço para gerenciamento remoto de Windows Servers. | Windows, CMD |
+| **WindowsService** | Serviço para gerenciamento remoto de Windows Servers. | C# |
 | **AgenteUnico** | WebService Controller. | PHP, MySQL |
 | **ProFila** | Painel de Senha em PHP. | PHP, MySQL, CSS |
 
