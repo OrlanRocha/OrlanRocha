@@ -30,10 +30,11 @@ Desenvolvedor full stack com foco em **PHP**, automação e ferramentas para ope
 
 | Projeto | O que entrega |
 | --- | --- |
-| [ChromeExtensao-ITSM-BMC](https://github.com/OrlanRocha/ChromeExtensao-ITSM-BMC) | Extensão Chrome para sincronizar chamados do ITSM, coletar notas, exibir indicadores e automatizar designações em SQLite local. |
 | [zapcore-gateway](https://github.com/OrlanRocha/zapcore-gateway) | Gateway de WhatsApp com painel PHP, worker Node.js, filas e webhooks. |
-| [ProFila-System](https://github.com/OrlanRocha/ProFila-System) | Painel de gerenciamento de senhas para atendimento. |
-| [Inventario](https://github.com/OrlanRocha/Inventario) | Organização e acompanhamento de inventário de ativos. |
+| [Manager-CodeChat](https://github.com/OrlanRocha/Manager-CodeChat) | Gerenciamento de projetos e código em PHP. |
+| [ProFila](https://github.com/OrlanRocha/ProFila) | Painel de gerenciamento de senhas para atendimento. |
+| [WhatsAtende](https://github.com/OrlanRocha/WhatsAtende) | Sistema de atendimento integrado ao WhatsApp. |
+| [Gestao-Inteligente](https://github.com/OrlanRocha/Gestao-Inteligente) | Sistema de gestão, PDV e delivery. |
 | [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Componentes e estilos CSS reutilizáveis para interfaces web. |
 
 ## O que estou estudando
