@@ -43,8 +43,11 @@ Arquitetura de microsserviços, automação com Shell Script, observabilidade e 
 ## GitHub em números
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OrlanRocha&show_icons=true&hide_border=true&theme=transparent&title_color=0d7898&icon_color=0d7898" alt="Estatísticas do GitHub de Orlan Rocha" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanRocha&layout=compact&hide_border=true&theme=transparent&title_color=0d7898" alt="Linguagens mais usadas por Orlan Rocha" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrlanRocha&theme=default" alt="Resumo do perfil GitHub de Orlan Rocha" />
+</p>
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrlanRocha&theme=default" alt="Linguagens dos repositórios de Orlan Rocha" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OrlanRocha&theme=default" alt="Estatísticas do GitHub de Orlan Rocha" />
 </p>
 
 ## Contato
