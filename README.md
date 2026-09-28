@@ -1,68 +1,56 @@
-# 👋 Olá, sou Orlan Rocha!
+# Olá, eu sou Orlan Rocha 👋
 
-🎯 **Programador Full Stack** com foco principal em **PHP**, e com conhecimento em **C**, **C++**, **C#**, **JS** e **Java**. Já atuei em diversos projetos e continuo aprendendo e colaborando em novas soluções todos os dias.
+Desenvolvedor full stack com foco em **PHP**, automação e ferramentas para operação de TI. Transformo processos manuais em soluções simples de operar, fáceis de manter e orientadas a dados.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-OrlanRocha-181717?logo=github)](https://github.com/OrlanRocha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlan%20Rocha-0A66C2?logo=linkedin)](https://br.linkedin.com/in/orlanrocha)
+[![Profile views](https://komarev.com/ghpvc/?username=OrlanRocha&color=0d7898)](https://github.com/OrlanRocha)
 
-## 🚀 Minhas Especialidades:
-- **Back-end**: PHP, Node.js
-- **Front-end**: HTML5, CSS3, JavaScript
-- **Banco de Dados**: MySQL / MariaDB, SQL Server
-- **Infraestrutura**: Docker, Windows Server, Linux
-- **Ferramentas**: Git, GitHub, VSCode, Active Directory (AD),  Microsoft LAPS (Local Administrator Password Solution)
-- **Sistemas**: GLPI, Grafana
+## No que trabalho
 
-## 🌱 Atualmente estou aprendendo:
-- Arquitetura de Microsserviços
-- Automação com Shell Script
-- Aplicações Cloud usando AWS e Azure
+- Aplicações web e APIs com PHP, Node.js e JavaScript.
+- Automação de rotinas no Windows e integração com sistemas corporativos.
+- Painéis operacionais, SQLite/MySQL e consultas para acompanhamento de indicadores.
+- Ambientes com Docker, Linux, Windows Server e ferramentas de suporte.
 
----
+## Stack principal
 
-## 💼 Meus Projetos Recentes
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|------------|-------------|------|
-| [Template-GestaoInteligente](https://github.com/OrlanRocha/Template-GestaoInteligente) | Template em HTML, JS & CSS sem framework. | HTML, JS, CSS | [Acessar](https://github.com/OrlanRocha/Template-GestaoInteligente) |
-| [Batch-GPI-Agente-Install](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) | Script CMD para download e instalação do GLPI Agent. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) |
-| [Batch-FusionInventory-GLPI](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) | Script CMD para download e instalação do agente Fusioninventory. | CMD, Windows | [Acessar](https://github.com/OrlanRocha/Batch-FusionInventory-GLPI) |
-| [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Framework CSS. | HTML, CSS | [Acessar](https://github.com/OrlanRocha/FramePER-CSS) |
-
-### Projetos Privados (⚠️)
-| Projeto | Descrição | Tecnologias |
-|---------|------------|-------------|
-| **AgendaBarberShop** | Sistema Web em PHP,Agenda de barbearia. | PHP, MySQL | Private |
-| **WindowsService** | Serviço para gerenciamento remoto de Windows Servers. | C# |
-| **AgenteUnico** | WebService Controller. | PHP, MySQL |
-| **ProFila** | Painel de Senha em PHP. | PHP, MySQL, CSS |
-
----
-
-## 📊 Estatísticas de Linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanRocha&layout=compact&theme=radical" alt="Orlan Rocha's Most Used Languages" />
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111827" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827" />
 </p>
 
----
+## Projetos em destaque
 
-## 📈 Minhas Estatísticas no GitHub
+| Projeto | O que entrega |
+| --- | --- |
+| [ChromeExtensao-ITSM-BMC](https://github.com/OrlanRocha/ChromeExtensao-ITSM-BMC) | Extensão Chrome para sincronizar chamados do ITSM, coletar notas, exibir indicadores e automatizar designações em SQLite local. |
+| [zapcore-gateway](https://github.com/OrlanRocha/zapcore-gateway) | Gateway de WhatsApp com painel PHP, worker Node.js, filas e webhooks. |
+| [ProFila-System](https://github.com/OrlanRocha/ProFila-System) | Painel de gerenciamento de senhas para atendimento. |
+| [Inventario](https://github.com/OrlanRocha/Inventario) | Organização e acompanhamento de inventário de ativos. |
+| [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Componentes e estilos CSS reutilizáveis para interfaces web. |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrlanRocha&show_icons=true&theme=radical" alt="Orlan Rocha's GitHub Stats" />
+## O que estou estudando
+
+Arquitetura de microsserviços, automação com Shell Script, observabilidade e aplicações em nuvem com AWS e Azure.
+
+## GitHub em números
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OrlanRocha&show_icons=true&hide_border=true&theme=transparent&title_color=0d7898&icon_color=0d7898" alt="Estatísticas do GitHub de Orlan Rocha" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrlanRocha&layout=compact&hide_border=true&theme=transparent&title_color=0d7898" alt="Linguagens mais usadas por Orlan Rocha" />
 </p>
 
----
-
-## 📫 Como me encontrar:
+## Contato
 
 - [LinkedIn](https://br.linkedin.com/in/orlanrocha)
-- **Email**: orlan.rocha@outlook.com
+- [Projetos no GitHub](https://github.com/OrlanRocha)
+- orlan.rocha@outlook.com
 
----
-
-## 💡 Filosofia de Trabalho:
-> "A inovação e a paixão pelo aprendizado são a base do meu trabalho. Sou um desenvolvedor que acredita no poder da colaboração e em como o código pode transformar ideias em soluções reais."
-
----
-
+> Código útil é código que reduz trabalho, deixa o processo mais claro e continua funcionando depois que o autor sai da tela.
