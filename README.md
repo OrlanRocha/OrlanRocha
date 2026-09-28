@@ -28,11 +28,13 @@ Desenvolvedor full stack com foco em **PHP**, automação e ferramentas para ope
 
 ## Projetos em destaque
 
+Todos os projetos desta seção foram confirmados como públicos no GitHub.
+
 | Projeto | O que entrega |
 | --- | --- |
 | [zapcore-gateway](https://github.com/OrlanRocha/zapcore-gateway) | Gateway de WhatsApp com painel PHP, worker Node.js, filas e webhooks. |
 | [Manager-CodeChat](https://github.com/OrlanRocha/Manager-CodeChat) | Gerenciamento de projetos e código em PHP. |
-| [ProFila](https://github.com/OrlanRocha/ProFila) | Painel de gerenciamento de senhas para atendimento. |
+| [Batch-GPI-Agente-Install](https://github.com/OrlanRocha/Batch-GPI-Agente-Install) | Script para instalação e configuração do agente GLPI no Windows. |
 | [WhatsAtende](https://github.com/OrlanRocha/WhatsAtende) | Sistema de atendimento integrado ao WhatsApp. |
 | [Gestao-Inteligente](https://github.com/OrlanRocha/Gestao-Inteligente) | Sistema de gestão, PDV e delivery. |
 | [FramePER-CSS](https://github.com/OrlanRocha/FramePER-CSS) | Componentes e estilos CSS reutilizáveis para interfaces web. |
