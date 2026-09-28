@@ -40,14 +40,19 @@ Desenvolvedor full stack com foco em **PHP**, automação e ferramentas para ope
 
 Arquitetura de microsserviços, automação com Shell Script, observabilidade e aplicações em nuvem com AWS e Azure.
 
-## GitHub em números
+## Números públicos no GitHub
+
+As métricas abaixo consideram somente informações públicas do perfil e dos repositórios públicos.
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrlanRocha&theme=default" alt="Resumo do perfil GitHub de Orlan Rocha" />
+  <img alt="Repositórios públicos" src="https://img.shields.io/github/public-repos/OrlanRocha?label=reposit%C3%B3rios%20p%C3%BAblicos&color=0d7898" />
+  <img alt="Seguidores públicos" src="https://img.shields.io/github/followers/OrlanRocha?label=seguidores&color=0d7898" />
+  <img alt="Estrelas recebidas em repositórios públicos" src="https://img.shields.io/github/stars/OrlanRocha?affiliations=OWNER&label=estrelas%20p%C3%BAblicas&color=0d7898" />
+  <img alt="Commits públicos no ano" src="https://img.shields.io/github/commit-activity/y/OrlanRocha/ChromeExtensao-ITSM-BMC?label=commits%20p%C3%BAblicos%20(ITSM)&color=0d7898" />
 </p>
+
 <p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrlanRocha&theme=default" alt="Linguagens dos repositórios de Orlan Rocha" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OrlanRocha&theme=default" alt="Estatísticas do GitHub de Orlan Rocha" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrlanRocha&theme=default" alt="Linguagens dos repositórios públicos de Orlan Rocha" />
 </p>
 
 ## Contato
