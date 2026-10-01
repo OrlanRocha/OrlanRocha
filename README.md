@@ -48,7 +48,6 @@ Arquitetura de microsserviços, automação com Shell Script, observabilidade e 
 As métricas abaixo consideram somente informações públicas do perfil e dos repositórios públicos.
 
 <p>
-  <img alt="Repositórios públicos" src="https://img.shields.io/github/public-repos/OrlanRocha?label=reposit%C3%B3rios%20p%C3%BAblicos&color=0d7898" />
   <img alt="Seguidores públicos" src="https://img.shields.io/github/followers/OrlanRocha?label=seguidores&color=0d7898" />
   <img alt="Estrelas recebidas em repositórios públicos" src="https://img.shields.io/github/stars/OrlanRocha?affiliations=OWNER&label=estrelas%20p%C3%BAblicas&color=0d7898" />
 </p>
